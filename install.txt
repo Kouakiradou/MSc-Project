@@ -1,0 +1,6 @@
+conda create -n EDL python=3.9 tensorflow-gpu
+conda activate EDL
+conda install tqdm
+conda install keras
+pip install saliency
+
